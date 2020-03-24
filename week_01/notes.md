@@ -16,4 +16,4 @@
 5. 最后是作业！:heavy_check_mark: 
 
 # :new_moon_with_face:学完本节课感想： 
-### 爬虫真的有点好玩！就是对定位语法还不太熟练，需多加联系！ :stuck_out_tongue:
+### 爬虫真的有点好玩！就是对定位语法还不太熟练，需多加练习！ :stuck_out_tongue:
