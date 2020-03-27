@@ -18,6 +18,6 @@
    第二种方法
    from requests)html import soup_parse
    parsed = soup_parse(html_load)
-   ```
-   6. greedy和ungreedy
+   ```   
+6. greedy和ungreedy
    greedy指“不挑剔”标签地去进行数据爬取，ungreedy指有针对性的、“挑剔的”去爬取我们想要的数据
