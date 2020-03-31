@@ -13,8 +13,7 @@
    5. 同样还是状态狗的例子，用requests+lxml去爬取图片以及响应状态，最后下载图片
    6. 爬取豆瓣电影排行，使用pd.read_html失败了，改试requests+lxml，但是被反爬了！418！不要慌，我们要假装自己是浏览器，骗过网站，所以我们要加入头部信息，这样就可以顺利爬取到啦嘿嘿
    7.独角兽例子   
-   [2019胡润全球独角兽榜]( https://www.hurun.net/CN/Article/Details?num=E7190250C866)   
-   爬取这个链接里的表格，使用pandas模块。
+   [2019胡润全球独角兽榜]( https://www.hurun.net/CN/Article/Details?num=E7190250C866).爬取这个链接里的表格，使用pandas模块。
 4. 同时我也举了一些例子:candy:  ：   
    1. 尝试爬取百度新闻网站（利用css定位）
    2. 尝试爬取猎聘网工作的薪资待遇（利用Xpath定位）
