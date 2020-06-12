@@ -6,4 +6,9 @@
 ### :tv: Week5: 对前两周的代码进行讲解
 ### :shaved_ice: Week6: 换一个网站(搜狗微信）进行多页网页的数据爬取
 ### :gun: Week7: 对前几周的代码进行巩固（构建参数模板以及翻页数据爬取），自主练习并分析出该数据的价值
-### :fountain: Week8: 
+### :fountain: Week8: 爬取猎聘的职位等信息进行数据分析，数据价值的挖掘
+### :blossom: Week9: 爬取微信公众号文章并对分析其数据的价值
+### :cake: Week10: 爬取国家数据库&认识AJax_XHR交互
+### :sushi: Week11: 反向工程URL（国家数据库）
+### :milky_way: Week12&13: 爬取中国知网
+### :ear_of_rice: Week14: 使用srapy模块爬取bing.com首页的图片
