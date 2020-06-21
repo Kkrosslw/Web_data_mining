@@ -11,4 +11,5 @@
 ### :cake: Week10: 爬取国家数据库&认识AJax_XHR交互
 ### :sushi: Week11: 反向工程URL（国家数据库）
 ### :milky_way: Week12&13: 爬取中国知网
-### :ear_of_rice: Week14: 使用srapy模块爬取bing.com首页的图片
+### :ear_of_rice: Week14: 使用scrapy模块爬取bing.com首页的图片
+### :snowman: Week15: 使用scrapy爬取icon图标
