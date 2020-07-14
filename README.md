@@ -13,3 +13,4 @@
 ### :milky_way: Week12&13: 爬取中国知网
 ### :ear_of_rice: Week14: 使用scrapy模块爬取bing.com首页的图片
 ### :snowman: Week15: 使用scrapy爬取icon图标
+### :panda_face: 期末项目：[爬取猎聘相关热门编程岗位的薪资](https://github.com/Kkrosslw/Web_data_mining/tree/master/final)
